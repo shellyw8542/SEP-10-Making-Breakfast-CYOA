@@ -1,3 +1,3 @@
 # SEP-10-Making-Breakfast-CYOA
 
-testing
+haven't written anything here yet.. but you should [beginning.md](start here!)
