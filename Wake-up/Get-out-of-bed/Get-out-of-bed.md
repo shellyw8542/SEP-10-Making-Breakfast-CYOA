@@ -4,4 +4,4 @@ In light of how you're feeling, you decide to be responsible and get out of bed.
 
 [Open the fridge](Open-the-fridge/fridge.md)
 
-[Order takeout](Got-breakfast.md)
+[Order takeout](Order-takeout/Got-breakfast.md)
