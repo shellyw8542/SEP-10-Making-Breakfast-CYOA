@@ -1,6 +1,6 @@
 # Got out of bed
 
-You got out of bed, but what to do next?
+In light of how you're feeling, you decide to be responsible and get out of bed. But.. how will you get breakfast..?
 
 [Open the fridge](Open-the-fridge)
 
