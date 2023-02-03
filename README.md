@@ -7,4 +7,4 @@ As you wake up from a Saturday morning, you feel tired and groggy; you got a hor
 
 [Go on phone](go-on-phone.md)
 
-[Sleep in](Sleep-in/Sleep-in.md)
+[Sleep in](Sleep-in/README.md)
