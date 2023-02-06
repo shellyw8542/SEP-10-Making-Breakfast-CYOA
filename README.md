@@ -1,6 +1,6 @@
 # SEP-10-Making-Breakfast-CYOA
 
-You're very hungry once you just wake up, what can you do
+A story about, you, the user, waking up from a bad night's sleep.
 
 ## [good luck, user!](Wake-up/beginning.md)
 
