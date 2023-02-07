@@ -2,7 +2,7 @@
 
 When you open up the fridge to try and make some eggs and bacon, you realise that the fridge has got no eggs!
 
-[Forget it](Forget-it)
+[Forget it](forgotten.md)
 
 
-[Go to the store](go-to-the-store)
+[Go to the store](store.md)
