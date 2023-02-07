@@ -1,4 +1,4 @@
-# Got out of bed
+# You decide to get out of bed.
 
 In light of how you're feeling, you decide to be responsible and get out of bed. But.. how will you get breakfast..?
 
