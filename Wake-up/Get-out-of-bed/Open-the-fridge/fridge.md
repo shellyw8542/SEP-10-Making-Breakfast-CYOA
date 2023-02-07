@@ -1,4 +1,4 @@
-## Open the fridge
+# Open the fridge
 
 Before you open the fridge, you think to yourself... "What am I going to eat?"
 
