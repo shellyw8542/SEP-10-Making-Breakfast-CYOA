@@ -4,4 +4,5 @@ You decide you're feeling lazy, so you go on your phone and scroll on TikTok for
 
 [- Keep scrolling](keep-scrolling/continue-scrolling.md)
 
-[- Get out of bed](Get-out-of-bed/Get-out-of-bed.md)
+[- Get out of bed](../Get-out-of-bed/Get-out-of-bed.md)
+
