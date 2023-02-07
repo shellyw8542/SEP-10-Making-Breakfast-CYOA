@@ -5,4 +5,4 @@ You still don't really want to get out of bed, so you continue scrolling. Eventu
 
 [- Continue scrolling on your phone](Died/died.md)
 
-[- Get out of bed](../Get-out-of-bed/Get-out-of-bed.md)
+[- Get out of bed](../../Get-out-of-bed/Get-out-of-bed.md)
