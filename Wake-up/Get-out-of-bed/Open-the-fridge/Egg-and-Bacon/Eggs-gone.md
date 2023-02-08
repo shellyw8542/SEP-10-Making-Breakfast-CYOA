@@ -1,8 +1,9 @@
 # Eggs and Bacon
 
-When you open up the fridge to try and make some eggs and bacon, you realise that the fridge has got no eggs!
+You decide to take out the Eggs and the Bacon, except you realize that the eggs are rotten! What do you do now!?!
 
-[Forget it](Forget-it/forgotten.md)
+[- Forget it](Forget-it/forgotten.md)
 
+[- Go to the store](go-to-the-store/store.md)
 
-[Go to the store](go-to-the-store/store.md)
+[- Have Milk and Cereal instead](../../Milk-and-Cereal/Made-breakfast.md)
