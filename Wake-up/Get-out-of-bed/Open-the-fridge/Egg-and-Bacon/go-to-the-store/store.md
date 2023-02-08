@@ -1,5 +1,4 @@
 # Store
 
-As you go from you're way back home you encountered a school bus that wasn't stopping during a green light!!! You died while trying to get back home...
-
+As you go to the store, you  encounter a school bus that wasn't stopping during a red light!!! You died while trying to get to the store...
 [- Try again?](../../../../../Wake-up/beginning.md)
