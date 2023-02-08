@@ -1,6 +1,6 @@
 # Open the fridge
 
-Before you open the fridge, you think to yourself... "What am I going to eat?"
+Upon opening the fridge, you see you can make Eggs & Bacon or Milk & Cereal for breakfast. No problem.. except you like them both so much that you don't know what to eat! Which do you have?
 
 [Eggs and Bacon](Egg-and-Bacon/Eggs-gone.md)
 
